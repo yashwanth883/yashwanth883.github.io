@@ -1,16 +1,15 @@
 # yashwanth883.github.io
 # 👋 Hi, I'm Yashwanth G R  
+   Ebullient 4th-year AIML student with a solid foundation in AI and ML, eager to contribute to a dynamic team. Seeking an internship or entry
+   level position to apply data-driven insights, solve real-world problems, and collaborate with industry professionals, driving innovation in 
+   Artificial Intelligence and Machine Learning. 
 💻 **AI & ML Enthusiast | Machine Learning Undergrad | Aspiring ML & Data Science Professional | Software Development Enthusiast**  
 📚 Passionate about building scalable solutions with Python, React, and Cloud.
 
 
 ### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
-![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)  
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)  
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=powerbi)  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)  
+ **Python | C++ | Java | Machine Learning | Data Science | Power BI | Natural Language Processing | Django | OOPs |  MySql | Operating 
+System | Computer Network | Generative AI  | Computer Vision | CNN | Problem Solving | Git | Software development lifecycles.**
 
 ### 🚀 Projects
 - 🔥 [AI-Powered Investment Recommender System](https://github.com/yashwanth883/finance-recommender) - Built a personalized investment recommendation platform using Gradio for the user interface and Python for backend 
