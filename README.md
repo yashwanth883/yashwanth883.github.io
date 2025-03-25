@@ -13,10 +13,15 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)  
 
 ### 🚀 Projects
-- 🔥 [Finance Recommender](https://github.com/yashwanth883/finance-recommender) - A Langchain-based finance recommendation system.  
-- 🎯 [Pose Detection](https://github.com/yashwanth883/pose-detection) - Real-time human pose recognition using Python and OpenCV.  
-- 🛠️ [QueryMesh](https://github.com/yashwanth883/querymesh) - Neural document search system using NVIDIA AI Endpoints and LlamaIndex, enabling efficient large-scale text retrieval.  
-- 👁️ [Retinal Disease Detection](https://github.com/yashwanth883/retinal-disease-detection) - Deep learning model using CNN for classifying retinal diseases from image data.  
+- 🔥 [AI-Powered Investment Recommender System](https://github.com/yashwanth883/finance-recommender) - Built a personalized investment recommendation platform using Gradio for the user interface and Python for backend 
+processing. The system offers tailored financial advice based on user preferences, recommending options like Mutual Funds, 
+Government Bonds, and Equities to support long-term wealth creation.    
+- 🛠️ [QueryMesh: Retrieval-Augmented Generation with NVIDIA Endpoints and LlamaIndex :](https://github.com/yashwanth883/querymesh) - Developed a neural document 
+search system using NVIDIA AI Endpoints and LlamaIndex, enabling efficient indexing and context-aware retrieval of large
+scale text datasets.Tech Stack: Python, NVIDIA AI Endpoints, LlamaIndex, LangChain, Vector Embeddings, RAG. 
+- 👁️ [etinal Disease Detection using Convolutional Neural Networks](https://github.com/yashwanth883/retinal-disease-detection) - Developed a deep learning model utilizing convolutional neural networks to detect and classify various retinal diseases from input images. The project 
+involved preprocessing image data, training the model with labeled datasets, and achieving high accuracy in disease classification. Demonstrated 
+proficiency in machine learning, image processing, and Python programming.  
 
 ### 🎓 Education  
 - **Bachelor of Engineering**, Artificial Intelligence & Machine Learning  
